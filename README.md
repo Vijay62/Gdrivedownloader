@@ -45,3 +45,5 @@ After file has been uploaded the script prints direct download url.
 
 # Credits
 ### kshcherban for his lovely work [here](https://github.com/kshcherban/gdrive_uploader)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vijay62/Gdrivedownloader/tree/master)
